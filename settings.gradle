@@ -1,0 +1,2 @@
+rootProject.name = "Clean Architect Kotlin Flow Hilt Simplest way"
+include ':app'
